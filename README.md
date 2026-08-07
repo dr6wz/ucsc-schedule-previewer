@@ -1,5 +1,5 @@
-This is a Java-based program that I can only guarantee works through Linux.
-To run, change your working directory to the one corresponding to this repository and run the following:
+This is a Java-based program that I can only guarantee works through Linux. You MUST have Java installed.
+To run, clone this repo by running ``git clone git@github.com:dr6wz/ucsc-schedule-previewer`` in a destination directory of your choice. Then change into the newly generated directory and run the following:
 
 ```chmod +x program.sh``` (only needs to be done the first time you run this program)
 
