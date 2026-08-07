@@ -7,4 +7,4 @@ To run, change your working directory to the one corresponding to this repositor
 
 Once you're in the program, type the subject abbreviation for the department whose class schedule you would like to preview. (am, cse, math, etc.) Type 'stop' without parentheses to terminate the program.
 
-Only Winter 2027 schedules will be shown here, but I will eventually add support for future quarters.
+As of now, this tool only works for the Winter 2027 quarter, but I plan on eventually adding support for any near-future quarter.
